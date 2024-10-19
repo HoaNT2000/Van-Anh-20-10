@@ -5,9 +5,9 @@ letterContent += "$Tớ gửi cậu đôi lời thật thiết tha.";
 letterContent += "$Chẳng cần hoa hồng hay lời bay bổng,";
 letterContent += "$Chỉ mong thấy cậu luôn nở nụ cười.";
 letterContent += "$$Trong tim tớ, cậu vẫn là ánh sáng,";
-letterContent += "$Dịu dàng, ấm áp giữa dòng đời hoang.";
+letterContent += "$Ngọt ngào, dịu êm giữa những tháng ngày.";
 letterContent += "$Chúc cậu mãi vui, bình yên mỗi sáng,";
-letterContent += "$Để từng ngày thêm rạng rỡ thênh thang.";
+letterContent += "$Để ngày trôi qua đẹp tựa trời xanh.";
 letterContent += "$@#";
 // Tốc độ viết chữ. Số càng nhỏ tốc độ càng nhanh. 50 là tốc độ khá phù hợp
 durationWrite = 50;
